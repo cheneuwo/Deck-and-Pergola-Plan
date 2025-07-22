@@ -1,0 +1,9 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: docs/Introduction/Background.ipynb
+- file: docs/Methods/Parts.ipynb
+- file: docs/Conclusion/bibliography.ipynb
